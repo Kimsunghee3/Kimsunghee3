@@ -1,6 +1,6 @@
 ## About me
 
-## Hi there! <br/> I'm Web Frontend Developer Chop~!.
+## Hi there! <br/> I'm Web Frontend Developer Chop!!
 
 ## 🛠️ Skills
 
